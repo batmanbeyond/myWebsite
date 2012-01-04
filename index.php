@@ -36,15 +36,15 @@
 				
 					<table height="25" align="center"  class="menu"> 
 				  		<tr> 
-				    		<td ><a onMouseOver="ShowPicture('mouth',1)" onMouseOut="ShowPicture('mouth',0)" href=""><div  class="nav_button">code</div></a></td>
+				    		<td ><a onMouseOver="ShowPicture('mouth',1)" onMouseOut="ShowPicture('mouth',0)" href="http://cs.mills.edu/~jmckenney/code.php"><div  class="nav_button">code</div></a></td>
 				    		
-							<td ><a onMouseOver="ShowPicture('batman',1)" onMouseOut="ShowPicture('batman',0)" href=""><div class="nav_button">amurica</div></a></td>
+							<td ><a onMouseOver="ShowPicture('batman',1)" onMouseOut="ShowPicture('batman',0)" href="http://cs.mills.edu/~jmckenney/amurica.php"><div class="nav_button">amurica</div></a></td>
 
-				    		<td ><a onMouseOver="ShowPicture('juggler',1)" onMouseOut="ShowPicture('juggler',0)" href=""><div class="nav_button">juggling</div></a></td> 
+				    		<td ><a onMouseOver="ShowPicture('juggler',1)" onMouseOut="ShowPicture('juggler',0)" href="http://cs.mills.edu/~jmckenney/juggling.php"><div class="nav_button">juggling</div></a></td> 
 						
-							<td ><a onMouseOver="ShowPicture('happyBull',1)" onMouseOut="ShowPicture('happyBull',0)" href=""><div class="nav_button">foto</div></a></td> 
+							<td ><a onMouseOver="ShowPicture('happyBull',1)" onMouseOut="ShowPicture('happyBull',0)" href="http://cs.mills.edu/~jmckenney/creative.php"><div class="nav_button">creative</div></a></td> 
 
-				 			<td ><a onMouseOver="ShowPicture('iAmJoe',1)" onMouseOut="ShowPicture('iAmJoe',0)" href="http://cs.mills.edu/~jmckenney/about/about.php"><div class="nav_button">naked</div></a></td> 
+				 			<td ><a onMouseOver="ShowPicture('iAmJoe',1)" onMouseOut="ShowPicture('iAmJoe',0)" href="http://cs.mills.edu/~jmckenney/about/naked.php"><div class="nav_button">naked</div></a></td> 
 								
 						</tr> 
 
