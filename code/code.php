@@ -7,6 +7,32 @@
 	
 		<link  href="http://cs.mills.edu/~jmckenney/style.css" rel="stylesheet"    type="text/css" /> 
 		
+		
+		
+		<div class="post_title">				
+			<h2>
+				<a href="">	an html validator</a>
+			</h2>						
+		</div>
+		<div class="post_title">				
+			<h2>
+				<a href="">	a simple brain for my android calculator</a>
+			</h2>						
+		</div>
+		<div class="post_title">				
+			<h2>
+				<a href="">	shell script to show hidden files in OSx </a>
+			</h2>						
+		</div>
+		<div class="post_title">				
+			<h2>
+				<a href="">	a phase vocoder for time compressions and expansion</a>
+			</h2>						
+		</div>
+		
+		
+		
+		
 		<h1> so you are looking for some code..... <h1>
 		
 	</body>

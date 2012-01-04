@@ -40,7 +40,7 @@
 				    		
 							<td ><a onMouseOver="ShowPicture('batman',1)" onMouseOut="ShowPicture('batman',0)" href="http://cs.mills.edu/~jmckenney/amurica.php"><div class="nav_button">amurica</div></a></td>
 
-				    		<td ><a onMouseOver="ShowPicture('juggler',1)" onMouseOut="ShowPicture('juggler',0)" href="http://cs.mills.edu/~jmckenney/juggling.php"><div class="nav_button">juggling</div></a></td> 
+				    		<td ><a onMouseOver="ShowPicture('juggler',1)" onMouseOut="ShowPicture('juggler',0)" href="http://cs.mills.edu/~jmckenney/juggling.php"><div class="nav_button">(F+D)H=(V+D)N</div></a></td> 
 						
 							<td ><a onMouseOver="ShowPicture('happyBull',1)" onMouseOut="ShowPicture('happyBull',0)" href="http://cs.mills.edu/~jmckenney/creative.php"><div class="nav_button">creative</div></a></td> 
 
