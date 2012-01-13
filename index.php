@@ -28,8 +28,7 @@
 	
 		<!--Start of bodybox -->
 		<div id="bodyBox">
-			
-				
+
 				
 				<!--Start of Navigation Bar -->
 				<div class="nav_bar">
@@ -40,11 +39,11 @@
 				    		
 							<td ><a onMouseOver="ShowPicture('batman',1)" onMouseOut="ShowPicture('batman',0)" href="http://cs.mills.edu/~jmckenney/amurica.php"><div class="nav_button">amurica</div></a></td>
 
-				    		<td ><a onMouseOver="ShowPicture('juggler',1)" onMouseOut="ShowPicture('juggler',0)" href="http://cs.mills.edu/~jmckenney/juggling.php"><div class="nav_button">(F+D)H=(V+D)N</div></a></td> 
+				    		<td ><a onMouseOver="ShowPicture('juggler',1)" onMouseOut="ShowPicture('juggler',0)" href="http://cs.mills.edu/~jmckenney/juggling.php"><div class="nav_button">(f+d)h=(v+d)n</center></div></a></td> 
 						
 							<td ><a onMouseOver="ShowPicture('happyBull',1)" onMouseOut="ShowPicture('happyBull',0)" href="http://cs.mills.edu/~jmckenney/creative.php"><div class="nav_button">creative</div></a></td> 
 
-				 			<td ><a onMouseOver="ShowPicture('iAmJoe',1)" onMouseOut="ShowPicture('iAmJoe',0)" href="http://cs.mills.edu/~jmckenney/about/naked.php"><div class="nav_button">naked</div></a></td> 
+				 			<td ><a onMouseOver="ShowPicture('iAmJoe',1)" onMouseOut="ShowPicture('iAmJoe',0)" href="http://cs.mills.edu/~jmckenney/about/about.php"><div class="nav_button">about / naked</div></a></td> 
 								
 						</tr> 
 
@@ -75,6 +74,7 @@
 				<div id="iAmJoe">
 				<a href="http://cs.mills.edu/~jmckenney/"><img src="joe.png" ></a> 
 				</div>
+	
 		</div>
 		<!--End of BodyBox -->
 		
